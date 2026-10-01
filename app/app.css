@@ -1,6 +1,10 @@
 @import "tailwindcss";
 
-ActionBar {
-    background-color: #65adf1;
-    color: white;
+@font-face {
+  font-family: "Roboto-Bold";
+  src: url("~/fonts/Roboto-Bold.ttf");
+}
+
+Page {
+  background-color: #FAF9F8;
 }

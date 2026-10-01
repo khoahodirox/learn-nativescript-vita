@@ -4,10 +4,13 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
+    "@nativescript-community/ui-canvas": "^4.6.52",
+    "@nativescript-community/ui-svg": "^0.2.24",
     "@nativescript/core": "~9.0.0",
     "nativescript-vue": "^3.0.0"
   },
   "devDependencies": {
+    "@nativescript/android": "9.0.5",
     "@nativescript/tailwind": "^4.0.0",
     "@nativescript/types": "~9.0.0",
     "@nativescript/webpack": "~5.0.31",
