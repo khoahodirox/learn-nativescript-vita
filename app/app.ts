@@ -1,8 +1,8 @@
 import { createApp, registerElement } from 'nativescript-vue'
 import { SVGView } from '@nativescript-community/ui-svg';
 
-import Home from './components/Home.vue'
+import Grid from './components/Grid.vue'
 
 registerElement('SVGView', () => SVGView);
 
-createApp(Home).start()
+createApp(Grid).start()
